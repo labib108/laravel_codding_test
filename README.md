@@ -37,13 +37,11 @@ Follow these steps to set up the project locally:
  - **Step 4: Generate the application key** 
   ```bash
   php artisan key:generate
-
-- **Step 5: Run migrations and Serve**  
+- **Step 5: Run migrations and Serve** 
   ```bash
   php artisan migrate
-  ```bash
   php artisan serve
-  
+
 # Screenshots
 ![login](images/login.png)
 ![register](images/register.png)
