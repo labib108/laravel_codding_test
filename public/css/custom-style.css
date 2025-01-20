@@ -1,0 +1,8 @@
+.dashboard-hover {
+    background-color: #fff;
+    border: #9b0979 solid 3px;
+}
+.dashboard-hover:hover{
+    background-color: #f5c4dc;
+    transition: background-color 0.3s ease-in-out;
+}
