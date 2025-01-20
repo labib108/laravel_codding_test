@@ -33,8 +33,8 @@ Follow these steps to set up the project locally:
   DB_DATABASE=your_database_name
   DB_USERNAME=your_database_username
   DB_PASSWORD=your_database_password
-
- - **Step 4: Generate the application key** 
+  
+- **Step 4: Generate the application key**  
   ```bash
   php artisan key:generate
 - **Step 5: Run migrations and Serve** 
